@@ -14,3 +14,4 @@ np.random.rand((603,1200)) - 2D bcz image is 2D
 random < prob/2 = 0
 random > 1 - prob/2 = 255
 
+EXP3: Mean and median filter for image noise removal with different size and kernal size
