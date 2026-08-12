@@ -16,4 +16,14 @@ random > 1 - prob/2 = 255
 
 EXP3: Mean and median filter for image noise removal with different size and kernal size
 
+EXP4: To remove gaussian noise
+~ what is gaussian noise (blur)
+~ how to design the gaussian noise filter
+
 cd "CV_2026_H12"
+git status
+git add .
+git push origin main
+git status
+git commit -m ""
+git push origin main
