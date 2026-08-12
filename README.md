@@ -15,3 +15,5 @@ random < prob/2 = 0
 random > 1 - prob/2 = 255
 
 EXP3: Mean and median filter for image noise removal with different size and kernal size
+
+cd "CV_2026_H12"
