@@ -23,7 +23,5 @@ EXP4: To remove gaussian noise
 cd "CV_2026_H12"
 git status
 git add .
-git push origin main
-git status
 git commit -m ""
 git push origin main
